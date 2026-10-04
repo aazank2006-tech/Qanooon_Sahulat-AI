@@ -4,6 +4,6 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# Large datasets and vector databases (generated via download_pk_eli.py & vectorize_pk_eli.py)
-data/pk_eli_raw/
+# ChromaDB vector store contains large local binaries (786MB+ exceeds GitHub 100MB limit)
+# Generated locally via: python vectorize_pk_eli.py
 data/chroma_db/

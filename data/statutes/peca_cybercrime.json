@@ -1,0 +1,54 @@
+[
+  {
+    "id": "peca_sec20_dignity",
+    "act": "Prevention of Electronic Crimes Act (PECA) 2016",
+    "section": "Section 20 - Offences Against Dignity of Natural Person (Defamation & Character Assassination)",
+    "category": "Cyber Law & Privacy",
+    "jurisdiction": "Federal (All Pakistan)",
+    "forum": "Federal Investigation Agency (FIA) Cyber Crime Wing (CCW) / Special Court (Offences in Respect of Banks/Cyber)",
+    "limitation_period": "Immediate filing upon discovery",
+    "keywords": ["defamation", "character", "false allegation", "facebook", "tiktok", "reputation", "badnami", "jhoot", "status", "viral"],
+    "content_english": "Section 20: Whoever intentionally and publicly exhibits or displays or transmits any information through any information system, which he knows to be false, and intimidates or harms the reputation or privacy of a natural person, shall be punished with imprisonment for a term up to 3 years, or with fine up to 1 million rupees, or both.",
+    "content_urdu": "سیکشن 20: جو کوئی سوشل میڈیا (فیس بک، ٹک ٹاک، واٹس ایپ وغیرہ) پر جان بوجھ کر کسی شخص کے خلاف جھوٹی معلومات، کردار کشی یا بدنامی کا مواد پھیلائے گا، اس کو 3 سال تک قید یا 10 لاکھ روپے تک جرمانہ یا دونوں سزائیں ہو سکتی ہیں۔",
+    "content_roman_urdu": "Section 20 ke tehat, agar koi shakhs social media (Facebook, WhatsApp, TikTok) par aapki jhooti badnami, kirdaar kushi ya izzat ko nuqsaan pohanchaye, to usay 3 saal tak qaid aur 10 lakh rupay tak jurmana ho sakta he. Iski complaint FIA Cyber Crime me darj hoti he."
+  },
+  {
+    "id": "peca_sec21_modesty_blackmail",
+    "act": "Prevention of Electronic Crimes Act (PECA) 2016",
+    "section": "Section 21 - Offences Against Modesty & Non-Consensual Imagery (Blackmailing)",
+    "category": "Cyber Law & Privacy",
+    "jurisdiction": "Federal (All Pakistan)",
+    "forum": "Federal Investigation Agency (FIA) Cyber Crime Wing (CCW)",
+    "limitation_period": "Immediate (High Priority Emergency)",
+    "keywords": ["blackmail", "photos", "video", "personal picture", "tasweer", "nude", "threat", "leaked", "dharki", "dhamki", "paisay mangna"],
+    "content_english": "Section 21: Displaying or transmitting a sexually explicit image or video of any person without consent, or superimposing/morphing photographs to harm modesty, or blackmailing with such material is punishable with imprisonment up to 5 years, or fine up to 5 million rupees, or both. In cases involving minors, punishment extends to 7 years.",
+    "content_urdu": "سیکشن 21: کسی بھی شخص کی رضامندی کے بغیر اس کی ذاتی یا قابل اعتراض تصاویر یا ویڈیوز شیئر کرنا، تصاویر میں ردوبدل (Morphing) کرنا، یا ان کے ذریعے بلیک میل کرنا سنگین جرم ہے۔ سزا 5 سال تک قید اور 50 لاکھ روپے تک جرمانہ ہے۔ خواتین اور بچوں کے کیسز میں فوری ترجیحی کارروائی کی جاتی ہے۔",
+    "content_roman_urdu": "Section 21 ke mutabiq, kisi ki ijazat ke baghair uski zati tasweer ya video viral karna, photos morph karna, ya tasweeron k zariye blackmail karna sangeen jurm he. Saza 5 saal qaid aur 50 lakh rupay tak jurmana he. FIA Cyber Crime Wing aise cases me foran urgent action leti he."
+  },
+  {
+    "id": "peca_sec24_stalking",
+    "act": "Prevention of Electronic Crimes Act (PECA) 2016",
+    "section": "Section 24 - Cyber Stalking & Harassment",
+    "category": "Cyber Law & Privacy",
+    "jurisdiction": "Federal (All Pakistan)",
+    "forum": "FIA Cyber Crime Wing / Provincial Women Protection Lines",
+    "limitation_period": "Anytime during ongoing harassment",
+    "keywords": ["stalking", "harassment", "messages", "calling", "tang karna", "bar bar message", "unknown number", "whatsapp call"],
+    "content_english": "Section 24: Following a person or contacting them online repeatedly despite clear disinterest, monitoring another's internet activity without authority, or taking pictures of another in private without consent constitutes cyber stalking. Punishable with imprisonment up to 3 years or fine up to 1 million rupees.",
+    "content_urdu": "سیکشن 24 (سائبر سٹاکنگ): بار بار منع کرنے کے باوجود کسی کو سوشل میڈیا یا فون پر غیر ضروری پیغامات بھیجنا، پیچھا کرنا، یا ذاتی زندگی کی نگرانی کرنا سائبر ہراسمنٹ ہے۔ سزا 3 سال تک قید اور 10 لاکھ روپے جرمانہ ہے۔",
+    "content_roman_urdu": "Section 24 ke tehat kisi ko online baar baar tang karna, mana karne k bawajood messages bhejna ya uski online activity par nazar rakhna Cyber Stalking he. Saza 3 saal qaid aur 10 lakh rupay tak jurmana he."
+  },
+  {
+    "id": "peca_sec14_fraud",
+    "act": "Prevention of Electronic Crimes Act (PECA) 2016",
+    "section": "Section 13 & 14 - Electronic Fraud & Unauthorized Bank Transfers",
+    "category": "Cyber Law & Privacy",
+    "jurisdiction": "Federal (All Pakistan)",
+    "forum": "FIA Cyber Crime Wing / State Bank Banking Mohtasib",
+    "limitation_period": "File within 24-48 hours to freeze accounts",
+    "keywords": ["bank scam", "otp", "easypaisa", "jazzcash", "fraud", "dhoka", "paisay nikal gaye", "fake link", "lottery scam"],
+    "content_english": "Section 14: Using an information system to deceive any person to obtain wrongful gain, or illicitly initiating an electronic fund transfer, is electronic fraud punishable with imprisonment up to 2 years, or fine up to 10 million rupees. For bank/wallet fraud, report to your bank within 24 hours to dispute, and lodge an FIA CCW complaint immediately.",
+    "content_urdu": "سیکشن 14: آن لائن فراڈ، جعلی او ٹی پی (OTP) مانگ کر بینک یا ایزی پیسہ/جاز کیش سے رقم نکلوانا یا جھانسہ دے کر رقم ٹرانسفر کروانا جرم ہے۔ بینک کو 24 گھنٹے میں مطلع کر کے ٹرانزیکشن روکیں اور فوری طور پر ایف آئی اے (FIA) میں شکایت درج کرائیں۔ بینک سے انصاف نہ ملنے پر بینکنگ محتسب (Banking Mohtasib) سے رجوع کریں۔",
+    "content_roman_urdu": "Section 14 ke tehat online fraud, fake OTP ya fake link k zariye account se paisay nikalna sangeen jurm he. Pehle 24 ghantay me apnay bank/Easypaisa helpline par call kar k account freeze karwayen, phir complaint.fia.gov.pk par foran FIA Cyber Crime report darj karwayen."
+  }
+]

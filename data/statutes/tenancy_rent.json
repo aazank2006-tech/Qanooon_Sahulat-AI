@@ -1,0 +1,54 @@
+[
+  {
+    "id": "tenancy_sec15_eviction",
+    "act": "Punjab Rented Premises Act 2009",
+    "section": "Section 15 - Grounds for Eviction & Protection Against Illegal Lockout",
+    "category": "Tenancy & Property",
+    "jurisdiction": "Punjab (Similar principles in Sindh & ICT)",
+    "forum": "Special Judge Rent / Rent Tribunal (Civil Courts)",
+    "limitation_period": "30 days response time upon summons",
+    "keywords": ["eviction", "ghar khali", "makan", "tenant", "landlord", "kirayedar", "makan malik", "notice", "dhakka", "tala", "lock"],
+    "content_english": "Section 15: A landlord cannot forcibly evict a tenant, throw luggage out, or change locks without an order from the Rent Tribunal. Grounds for eviction are strictly regulated: expiry of fixed tenancy term, failure to pay rent within stipulated days, breach of agreement, subletting without consent, or personal bona fide need of the landlord proved in court.",
+    "content_urdu": "سیکشن 15: مکان مالک کسی کرایہ دار کو زبردستی، تالے لگا کر یا سامان باہر پھینک کر بے دخل نہیں کر سکتا۔ بے دخلی صرف اور صرف رینٹ ٹربیونل (Rent Tribunal) کے فیصلے کے ذریعے ہو سکتی ہے۔ اگر کرایہ باقاعدگی سے ادا کیا جا رہا ہو اور معاہدے کی خلاف ورزی نہ ہو تو مالک اپنی مرضی سے راتوں رات گھر خالی نہیں کروا سکتا۔",
+    "content_roman_urdu": "Section 15 ke tehat makan malik kisi kirayedar ko zabardasti, taala laga kar ya police ki dhamki de kar ghar se nahi nikaal sakta. Be-dakhli sirf Rent Tribunal ki adalat k zariye qanooni tor par ho sakti he. Agar aap waqt par kiraya de rahay hain to malik zabardasti makan khali nahi kara sakta."
+  },
+  {
+    "id": "tenancy_sec13_utilities",
+    "act": "Punjab Rented Premises Act 2009",
+    "section": "Section 13 - Prohibition on Cutting Off Electricity, Water, or Gas",
+    "category": "Tenancy & Property",
+    "jurisdiction": "Punjab & Sindh",
+    "forum": "Rent Tribunal / Police Assistance",
+    "limitation_period": "Immediate urgent application for restoration",
+    "keywords": ["bijli", "pani", "gas", "electricity cut", "meter", "line kat di", "utilities", "harassment"],
+    "content_english": "Section 13: No landlord shall, either by himself or through any other person, cut off or withhold any of the essential services or utilities (electricity, water supply, gas, sewerage) enjoyed by the tenant. If a landlord does so, the tenant can immediately file an emergency application before the Rent Tribunal, which shall order restoration and may penalize the landlord.",
+    "content_urdu": "سیکشن 13: مکان مالک کے لیے کرایہ دار کی بجلی، پانی یا گیس کا کنکشن کاٹنا یا بند کرنا قانوناً سخت منع ہے۔ اگر مالک ایسا کرے تو کرایہ دار فوری طور پر رینٹ ٹربیونل میں بحالی کی ہنگامی درخواست دائر کر سکتا ہے۔ عدالت فوری بحالی کا حکم دیتی ہے۔",
+    "content_roman_urdu": "Section 13 ke tehat makan malik ka kirayedar ki bijli, gas ya paani ka connection kaatna ghair-qanooni he. Agar malik aisa karay to Rent Tribunal me foran restoration ki emergency darkhwast daer kar k connection bahal karwaya ja sakta he."
+  },
+  {
+    "id": "tenancy_sec10_deposit",
+    "act": "Punjab Rented Premises Act 2009",
+    "section": "Section 10 - Security Deposit (Advance) Refund & Rent Receipts",
+    "category": "Tenancy & Property",
+    "jurisdiction": "Punjab & Sindh",
+    "forum": "Rent Tribunal / Civil Court",
+    "limitation_period": "Within 30 days of premises vacation",
+    "keywords": ["advance", "security", "biyana", "deposit", "wapsi", "refund", "cheque", "hisaab", "katoti"],
+    "content_english": "Section 10: The landlord must acknowledge receipt of any rent or security deposit in writing. Upon peaceful handover and vacation of the premises, the landlord is legally obligated to return the security deposit after deducting legitimate unpaid utility bills or verified physical damage. Arbitrary withholding of advance is illegal.",
+    "content_urdu": "سیکشن 10: مکان مالک پر سیکیورٹی ڈپازٹ اور کرایہ کی تحریری رسید دینا لازم ہے۔ گھر یا دکان خالی کرنے پر مکان مالک واجب الادا بلز اور حقیقی نقصان کی کٹوتی کے بعد باقی پوری ایڈوانس رقم واپس کرنے کا پابند ہے۔ بلاوجہ سیکیورٹی روکنا خلاف قانون ہے۔",
+    "content_roman_urdu": "Section 10 ke mutabiq makan khali karne par makan malik security deposit (advance) ki baqaya raqam wapis karne ka qanoonan paband he (sirf un-paid utility bills ya sabit shuda nuqsaan kaat kar). Advance hazam karna ghair qanooni he, ispar qanooni notice bheja ja sakta he."
+  },
+  {
+    "id": "tenancy_sec5_registration",
+    "act": "Punjab Rented Premises Act 2009",
+    "section": "Section 5 - Registration of Tenancy Agreement with Rent Registrar",
+    "category": "Tenancy & Property",
+    "jurisdiction": "Punjab",
+    "forum": "Rent Registrar / Special Judge Rent",
+    "limitation_period": "Within 30 days of executing agreement",
+    "keywords": ["stamp paper", "moaheda", "rent agreement", "registration", "patwari", "sub-registrar", "muahida"],
+    "content_english": "Section 5: A tenancy agreement must be in writing and registered with the Rent Registrar of the area within thirty days of signing. Failure to register bars the landlord from filing an eviction petition without paying a statutory penalty (5% to 10% of annual rent value) into the state treasury.",
+    "content_urdu": "سیکشن 5: کرایہ نامہ تحریری ہونا اور متعلقہ رینٹ رجسٹرار کے پاس رجسٹرڈ ہونا لازمی ہے۔ اگر معاہدہ رجسٹرڈ نہ ہو تو مکان مالک کو کرایہ دار کے خلاف عدالت جانے پر بھاری جرمانہ ادا کرنا پڑتا ہے۔",
+    "content_roman_urdu": "Section 5 ke tehat rent agreement ko Rent Registrar k paas register karwana zaroori he. Agar agreement register na ho to makan malik ko case karne par jurmana bharna parta he."
+  }
+]

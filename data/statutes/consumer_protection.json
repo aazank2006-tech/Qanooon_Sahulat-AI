@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cp_punjab_sec28",
+    "act": "Punjab Consumer Protection Act 2005",
+    "section": "Section 28 - Settlement of Claims & Mandatory 15-Day Written Notice",
+    "category": "Consumer Protection",
+    "jurisdiction": "Punjab",
+    "forum": "District Consumer Protection Court",
+    "limitation_period": "Notice within 15 days; Claim in court within 30 days after 15-day notice expiry",
+    "keywords": ["consumer", "notice", "15 days", "defective product", "refund", "daraz", "online shopping", "kharab cheez", "wapis", "dokandar", "scam"],
+    "content_english": "Section 28(1): A consumer who has suffered damage, or was sold a defective product or deficient service, must give a written notice to the manufacturer or provider of services demanding remedy/refund/damages within 15 days of receipt of notice. If the manufacturer/provider fails to remedy within 15 days, the consumer may file a claim before the Consumer Court under Section 29 within 30 days of the cause of action. No court fee is required to file a complaint in Consumer Court.",
+    "content_urdu": "سیکشن 28: اگر کسی صارف کو کوئی ناقص چیز (Defective Product) بیچی گئی ہو یا سروس میں خرابی ہو، تو کنزیومر کورٹ جانے سے پہلے دکاندار/کمپنی کو 15 دن کا تحریری قانونی نوٹس (Written Notice) دینا قانونی طور پر لازمی ہے۔ اگر 15 دن میں مسئلہ حل نہ ہو تو اگلے 30 دن کے اندر کنزیومر کورٹ میں دعویٰ دائر کیا جا سکتا ہے۔ کنزیومر کورٹ میں مقدمہ دائر کرنے کی کوئی کورٹ فیس نہیں ہوتی۔",
+    "content_roman_urdu": "Section 28 ke mutabiq, agar aapko koi kharab/naqis cheez ya service mili he, to Consumer Court jane se pehle dukandar ya company ko 15 roza tehreeri qanooni notice bhejna lazmi he. Agar 15 din me wo paisay wapis na karain ya cheez theek na karain, to aglay 30 din k andar Consumer Court me baghair kisi court fee k claim daer kia ja sakta he."
+  },
+  {
+    "id": "cp_punjab_sec13_15",
+    "act": "Punjab Consumer Protection Act 2005",
+    "section": "Section 13 & 15 - Defective Products & Deficient Services",
+    "category": "Consumer Protection",
+    "jurisdiction": "Punjab",
+    "forum": "District Consumer Protection Court",
+    "limitation_period": "30 days after statutory notice",
+    "keywords": ["warranty", "guarantee", "faulty", "mobile", "electronics", "kharab", "repair", "service", "tailor", "mechanic", "doctor"],
+    "content_english": "Sections 13 to 15: Manufacturers and service providers are strictly liable for defective construction, design, or failure to meet express warranties. The consumer is entitled to full return of the purchase price, replacement of the product, and damages for any loss or injury caused by the defective good or deficient service.",
+    "content_urdu": "سیکشن 13 اور 15: مینوفیکچرر اور سروس فراہم کرنے والے ناقص پراڈکٹ یا سروس کے قانونی طور پر ذمہ دار ہیں۔ صارف مکمل رقم کی واپسی (Refund)، پراڈکٹ کی تبدیلی، اور ہونے والے نقصان کے ہرجانے کا حقدار ہے۔",
+    "content_roman_urdu": "Section 13 aur 15 ke mutabiq, product banane wala ya bechnay wala naqis samaan ka poora zimmadar he. Grahak ko poori raqam wapsi (Refund), cheez ki tabdeeli (Replacement), aur nuqsaan k harjanay ka mukammal qanooni haq hasil he."
+  },
+  {
+    "id": "cp_punjab_sec21_receipt",
+    "act": "Punjab Consumer Protection Act 2005",
+    "section": "Section 18 & 19 - Duty to Issue Receipt and Display Prices",
+    "category": "Consumer Protection",
+    "jurisdiction": "Punjab",
+    "forum": "District Consumer Protection Court / Authority",
+    "limitation_period": "Immediate reporting to Authority",
+    "keywords": ["receipt", "bill", "invoice", "price list", "overcharging", "parchi", "mehnga", "rate"],
+    "content_english": "Every manufacturer or seller is legally bound to issue a receipt containing the date of sale, description of goods, quantity, and price. Sellers must also display price lists prominently. Failure to issue a receipt is a statutory offence.",
+    "content_urdu": "سیکشن 18 اور 19: ہر دکاندار پر رسید (Cash Memo/Bill) دینا قانونی طور پر فرض ہے جس پر تاریخ، مال کی تفصیل اور قیمت درج ہو۔ قیمتوں کی لسٹ آویزاں کرنا بھی لازمی ہے۔ رسید نہ دینا جرم ہے۔",
+    "content_roman_urdu": "Har dukandar par legal receipt/bill dena farz he jis me tareekh, samaan ki tafseel aur qeemat ho. Parchi/bill na dena qanooni jurm he."
+  },
+  {
+    "id": "cp_sindh_sec15",
+    "act": "Sindh Consumer Protection Act 2014",
+    "section": "Section 15 & 25 - Consumer Rights in Sindh",
+    "category": "Consumer Protection",
+    "jurisdiction": "Sindh",
+    "forum": "Consumer Protection Court Sindh (Karachi & District Courts)",
+    "limitation_period": "15 days notice; Claim within 30 days",
+    "keywords": ["karachi", "sindh", "hyderabad", "consumer court sindh", "bill", "refund karachi"],
+    "content_english": "Sindh Consumer Protection Act 2014 Section 25: Similar to Punjab, consumers in Sindh are entitled to remedies against unfair trade practices and defective goods through dedicated Consumer Protection Courts in Karachi and all districts. Written notice prior to court action is mandatory.",
+    "content_urdu": "سندھ کنزیومر پروٹیکشن ایکٹ 2014: سندھ کے شہریوں کے لیے کراچی اور تمام اضلاع میں کنزیومر کورٹس قائم ہیں۔ ناقص پراڈکٹ پر تاجر کو قانونی نوٹس بھیج کر کورٹ میں ہرجانہ اور رقم واپسی کا دعویٰ کیا جا سکتا ہے۔",
+    "content_roman_urdu": "Sindh Consumer Protection Act 2014 ke tehat Karachi aur Sindh k tamam shehron me Consumer Courts qaim hain. Kharab samaan par notice de kar court se refund aur harjana lia ja sakta he."
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "labor_wages_sec15",
+    "act": "Payment of Wages Act 1936",
+    "section": "Section 15 - Recovery of Delayed or Deducted Wages",
+    "category": "Labor & Employment",
+    "jurisdiction": "All Pakistan (Federal & Provincial Labour Departments)",
+    "forum": "Authority Appointed Under Payment of Wages Act / Labour Officer",
+    "limitation_period": "3 years from the date wages became due",
+    "keywords": ["salary", "tankhwah", "wages", "unpaid", "delay", "kaat li", "seth", "factory", "overtime", "due"],
+    "content_english": "Section 15: Where contrary to the provisions of this Act any deduction has been made from wages, or any payment of wages has been delayed, the employee may make an application to the Authority appointed under the Payment of Wages Act. The Authority may order payment of unpaid wages along with compensation up to ten times the deducted sum.",
+    "content_urdu": "سیکشن 15: اگر مالک یا کمپنی تنخواہ روک لے، تاخیر کرے یا بلاوجہ کٹوتی کرے تو ملازم 'اتھارٹی برائے ادائیگیٔ اجرت' (Authority under Payment of Wages Act) میں درخواست دے سکتا ہے۔ مجاز اتھارٹی تنخواہ کے ساتھ 10 گنا تک ہرجانہ دلوا سکتی ہے۔",
+    "content_roman_urdu": "Section 15 ke tehat agar seth ya company tankhwah rokay, delay karay ya katoti karay, to Labour Department ke 'Authority under Payment of Wages Act' me darkhwast di ja sakti he. Adalat ruki hui tankhwah k sath 10 guna tak harjana dila sakti he."
+  },
+  {
+    "id": "labor_standing_order_12",
+    "act": "Industrial & Commercial Employment (Standing Orders) Ordinance 1968",
+    "section": "Standing Order 12 - Lawful Termination, Notice Pay & Gratuity",
+    "category": "Labor & Employment",
+    "jurisdiction": "All Pakistan",
+    "forum": "Labour Court (under Industrial Relations Act)",
+    "limitation_period": "Grievance notice within 3 months, petition within 2 months thereafter",
+    "keywords": ["termination", "nokri", "job", "fire", "nikal dia", "gratuity", "notice pay", "stoppage", "allowance", "final settlement"],
+    "content_english": "Standing Order 12: The services of a permanent workman cannot be terminated without one month's written notice stating clear reasons, or one month's wages in lieu thereof. The employee is entitled to Gratuity equivalent to 30 days wages for every completed year of service, plus encashment of unavailed annual leaves and provident fund.",
+    "content_urdu": "سٹینڈنگ آرڈر 12: مستقل ملازم کو بغیر کسی ٹھوس تحریری وجہ اور 1 ماہ کے تحریری نوٹس (یا 1 ماہ کی تنخواہ) کے بغیر نوکری سے نہیں نکالا جا سکتا۔ برطرفی پر ہر سال کی سروس کے بدلے 30 دن کی بنیادی تنخواہ بطور گریجویٹی (Gratuity) اور رکے ہوئے واجبات کی فوری ادائیگی لازمی ہے۔",
+    "content_roman_urdu": "Standing Order 12 ke mutabiq kisi mustaqil mulazim ko bina 1 mah k notice ya 1 mah ki advance tankhwah k job se nahi nikala ja sakta. Har saal ki service k hisaab se 30 din ki basic salary Gratuity k tor par aur final settlement lena mulazim ka qanooni haq he."
+  },
+  {
+    "id": "workplace_harassment_act2010",
+    "act": "Protection Against Harassment of Women at the Workplace Act 2010",
+    "section": "Sections 4 & 8 - Inquiry Committee & Provincial/Federal Ombudsperson",
+    "category": "Labor & Employment / Harassment",
+    "jurisdiction": "Federal & Provincial",
+    "forum": "Internal Inquiry Committee / Federal & Provincial Ombudsperson for Harassment (FOSPAH)",
+    "limitation_period": "Prompt filing",
+    "keywords": ["harassment", "workplace", "boss", "colleague", "office", "female", "larki", "bad-tameezi", "pressure", "tang", "ombudsperson"],
+    "content_english": "Sections 4 & 8: Every organization must maintain a standing 3-member Inquiry Committee (with at least one woman). Victims of workplace harassment or hostile work environment may lodge a complaint with the internal committee or directly approach the Federal/Provincial Ombudsperson (FOSPAH / Mohtasiba). Heavy fines, demotion, dismissal, and financial damages can be imposed on perpetrators.",
+    "content_urdu": "ایکٹ 2010، سیکشن 4 اور 8: ہر ادارے میں ہراسمنٹ انکوائری کمیٹی کا قیام لازمی ہے۔ کام کی جگہ پر کسی بھی قسم کی ہراسانی، غیر مناسب اشاروں، یا غیر اخلاقی مطالبات کی صورت میں ملازم براہِ راست صوبائی یا وفاقی محتسبہ برائے انسدادِ ہراسانی (FOSPAH) سے رجوع کر سکتا ہے۔",
+    "content_roman_urdu": "Har office aur company me Harassment Inquiry Committee hona lazmi he. Agar koi boss ya colleague tang karay, ghalat demands karay ya office mahol kharab karay to direct Wafaqi ya Subai Mohtasiba (FOSPAH Ombudsperson) me complaint ki ja sakti he jahan foran faisla hota he."
+  }
+]

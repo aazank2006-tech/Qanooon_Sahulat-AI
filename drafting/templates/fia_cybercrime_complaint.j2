@@ -1,0 +1,55 @@
+BEFORE THE INCHARGE / DEPUTY DIRECTOR,
+FIA CYBER CRIME REPORTING CENTRE (CCW), NATIONAL RESPONSE CENTRE FOR CYBER CRIME (NR3C),
+GOVERNMENT OF PAKISTAN.
+
+Date: {{ date }}
+
+APPLICATION UNDER SECTIONS 14, 20, 21, AND 24 OF THE PREVENTION OF ELECTRONIC CRIMES ACT (PECA) 2016
+FOR REGISTRATION OF FORMAL COMPLAINT, FORENSIC INQUIRY, AND STATUTORY ACTION
+
+COMPLAINANT PARTICULARS:
+Name: {{ sender_name }}
+Father's / Husband's Name: {{ sender_guardian|default('S/o / D/o Complainant') }}
+CNIC: {{ sender_cnic }}
+Current Address: {{ sender_address }}
+Mobile / WhatsApp No.: {{ sender_phone }}
+
+ACCUSED / SUSPECT PARTICULARS (WHERE KNOWN):
+Name / Profile / Handle: {{ opponent_name }}
+Known Contact / Phone / WhatsApp: {{ opponent_details }}
+Address / Location: {{ opponent_address }}
+Profile Link / Account Details: {{ digital_identifier|default('Attached as Annexure') }}
+
+RESPECTFULLY SHEWETH:
+
+1. That the applicant is a respectable, law-abiding citizen of Pakistan residing at the address mentioned above.
+
+2. That on or about {{ incident_date }}, the accused person(s) committed cognizable cyber offences against the applicant, detailed as follows:
+   "{{ grievance_description }}"
+
+3. That the aforesaid conduct falls squarely within the prohibition of:
+   • Section 20 of PECA 2016 (Offences against dignity of natural person / Defamation);
+   • Section 21 of PECA 2016 (Offences against modesty / Blackmail / Non-consensual images);
+   • Section 24 of PECA 2016 (Cyber stalking / Continuous harassment);
+   • Section 14 of PECA 2016 (Electronic fraud / Unauthorized financial transactions).
+
+4. That the applicant has preserved all digital evidentiary artifacts including unaltered screenshots, timestamps, electronic chat transcripts, transaction IDs, and URL links, which are annexed herewith as Annexure-A.
+
+PRAYER:
+In view of the above circumstances, it is respectfully prayed that:
+a) A formal inquiry / FIR be registered against the accused under the relevant sections of PECA 2016;
+b) The offending profiles, links, or illicit material be flagged for immediate blocking and removal via PTA;
+c) The accused be traced through IP logs, mobile call data records (CDR), and summoned to face criminal prosecution;
+d) Restitution of defrauded funds amounting to PKR {{ amount }}/- be ordered where applicable.
+
+Any other relief deemed fit and just in the interest of justice may also be granted.
+
+APPLICANT,
+
+___________________________
+{{ sender_name }}
+CNIC: {{ sender_cnic }}
+Mobile: {{ sender_phone }}
+Enclosures:
+1. Copy of Complainant's CNIC
+2. Annexure-A: Screenshots / Digital Evidence / Transaction Receipts

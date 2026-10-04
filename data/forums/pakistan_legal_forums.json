@@ -1,0 +1,77 @@
+[
+  {
+    "domain": "Consumer Protection",
+    "name_english": "District Consumer Protection Court",
+    "name_urdu": "ضلعی کنزیومر پروٹیکشن کورٹ",
+    "presiding_officer": "District & Sessions Judge (Consumer Judge)",
+    "key_cities": ["Lahore", "Karachi", "Rawalpindi", "Faisalabad", "Multan", "Islamabad", "Peshawar", "Gujranwala", "Sialkot"],
+    "address_info": {
+      "Lahore": "Consumer Court, District Courts (Katchery), Lower Mall, Lahore",
+      "Karachi": "Sindh Consumer Protection Court, City Courts / District Court Complexes (East, South, West, Central, Malir)",
+      "Rawalpindi": "District Courts Complex, Kachehri Chowk, Rawalpindi",
+      "Islamabad": "District & Sessions Courts, F-8 Markaz, Islamabad",
+      "Faisalabad": "District Courts, Faisalabad",
+      "Multan": "District Courts Complex, Kutchery Road, Multan"
+    },
+    "court_fee": "Rs. 0 (Totally Free)",
+    "lawyer_needed": "No. Self-representation is explicitly permitted and encouraged by law.",
+    "mandatory_step": "15-day pre-suit written legal notice served via registered postal mail (with UMS / TCS receipt kept as proof)."
+  },
+  {
+    "domain": "Cyber Law & PECA",
+    "name_english": "FIA Cyber Crime Wing (CCW) / NR3C",
+    "name_urdu": "ایف آئی اے سائبر کرائم ونگ",
+    "presiding_officer": "Deputy Director / Incharge FIA Cyber Crime Reporting Center",
+    "online_portal": "https://complaint.fia.gov.pk",
+    "helpline": "1991 (Toll-Free Helpline)",
+    "key_cities": ["Islamabad", "Lahore", "Karachi", "Peshawar", "Quetta", "Multan", "Faisalabad", "Rawalpindi", "Sukkur", "Abbottabad"],
+    "address_info": {
+      "Islamabad": "National Cyber Crime Reporting Center, FIA HQ, Mauve Area, G-13, Islamabad",
+      "Lahore": "FIA Cyber Crime Reporting Centre, Gulberg III, Near Centre Point, Lahore",
+      "Karachi": "FIA Cyber Crime Circle, Block 9, Clifton / University Road, Gulshan-e-Iqbal, Karachi",
+      "Rawalpindi": "FIA Regional Office, Commercial Market, Satellite Town, Rawalpindi"
+    },
+    "court_fee": "Rs. 0 (Free Government Investigation)",
+    "lawyer_needed": "No lawyer required to register complaint.",
+    "mandatory_step": "Preserve all screenshots, URL links, phone numbers, and bank transaction IDs before approaching."
+  },
+  {
+    "domain": "Tenancy & Rent",
+    "name_english": "Rent Tribunal / Special Judge Rent",
+    "name_urdu": "رینٹ ٹربیونل / اسپیشل جج رینٹ",
+    "presiding_officer": "Special Judge Rent (Civil Judge)",
+    "key_cities": ["All District Headquarters across Punjab, Sindh, KPK, Balochistan & ICT"],
+    "address_info": {
+      "General": "Located inside the respective District & Sessions Courts (Katchery) in every city of Pakistan."
+    },
+    "court_fee": "Nominal stamp duty",
+    "lawyer_needed": "Recommended for full trial, but initial emergency application (e.g. for restored utility disconnection) can be moved directly.",
+    "mandatory_step": "Registered tenancy agreement and written rent receipts."
+  },
+  {
+    "domain": "Labor & Wages",
+    "name_english": "Authority under Payment of Wages Act / Labour Court",
+    "name_urdu": "اتھارٹی برائے ادائیگیٔ اجرت / لیبر کورٹ",
+    "presiding_officer": "Presiding Officer Labour Court / Commissioner Workmen's Compensation",
+    "key_cities": ["Lahore", "Karachi", "Faisalabad", "Gujranwala", "Rawalpindi", "Multan", "Peshawar", "Hyderabad"],
+    "address_info": {
+      "Lahore": "Labour Court, 60-Old Clifton / Davies Road / Ferozepur Road Labour Complex, Lahore",
+      "Karachi": "Sindh Labour Courts Complex, Valika Hall, SITE Area / City Courts, Karachi",
+      "Rawalpindi": "Labour Court, Rawalpindi"
+    },
+    "court_fee": "Exempt / Nominal",
+    "lawyer_needed": "Can be represented by registered Trade Union representative or legal practitioner.",
+    "mandatory_step": "Written grievance notice to employer prior to filing petition."
+  },
+  {
+    "domain": "Banking Fraud",
+    "name_english": "Banking Mohtasib Pakistan",
+    "name_urdu": "بینکنگ محتسب پاکستان",
+    "presiding_officer": "The Banking Mohtasib",
+    "online_portal": "https://www.bankingmohtasib.gov.pk",
+    "helpline": "021-99217334",
+    "court_fee": "Rs. 0 (Completely Free)",
+    "lawyer_needed": "No lawyer permitted; designed exclusively for ordinary account holders.",
+    "mandatory_step": "Lodge formal written complaint with your bank first; if bank doesn't resolve in 45 days, file with Banking Mohtasib."
+  }
+]

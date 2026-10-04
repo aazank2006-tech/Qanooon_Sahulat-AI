@@ -1,0 +1,45 @@
+LEGAL NOTICE FOR RECOVERY OF OUTSTANDING WAGES, SETTLEMENT & STATUTORY DUES
+UNDER SECTION 15 OF THE PAYMENT OF WAGES ACT 1936 & STANDING ORDER 12 (WEST PAKISTAN STANDING ORDERS ORDINANCE 1968)
+
+Date: {{ date }}
+
+TO:
+{{ opponent_name }} (Proprietor / Managing Director / CEO)
+{{ opponent_address }}
+Company/Establishment: {{ company_name|default(opponent_name) }}
+Contact/Ref: {{ opponent_details }}
+
+FROM:
+{{ sender_name }} (Former / Current Employee)
+CNIC: {{ sender_cnic }}
+Designation: {{ employee_designation|default('Employee') }}
+Address: {{ sender_address }}
+Phone: {{ sender_phone }}
+
+SUBJECT: FORMAL DEMAND NOTICE FOR UNCONDITIONAL PAYMENT OF WITHHELD SALARY / WAGES, FINAL SETTLEMENT, AND GRATUITY AMOUNTING TO PKR {{ amount }}/-
+
+Sir/Madam,
+
+Under instructions from and on behalf of myself, I hereby serve upon you this Statutory Legal Notice as follows:
+
+1. That the undersigned served in your establishment from {{ employment_start_date|default('date of appointment') }} to {{ incident_date }}, discharging duties diligently and with unblemished record.
+
+2. That the last drawn monthly remuneration/salary was agreed at PKR {{ monthly_salary|default(amount) }}/- per month.
+
+3. That contrary to statutory mandates and contractual commitments, your management has unlawfully withheld, delayed, or deducted wages for the following period/grounds:
+   "{{ grievance_description }}"
+   totalling a cumulative outstanding balance of PKR {{ amount }}/- (Rupees {{ amount }} only).
+
+4. That under Section 15 of the Payment of Wages Act 1936, no employer may delay or arbitrarily deduct wages. Furthermore, under Standing Order 12 of the West Pakistan Industrial and Commercial Employment (Standing Orders) Ordinance 1968, an employee whose service is discontinued is entitled to immediate settlement of wages, notice pay, and statutory Gratuity.
+
+THEREFORE, TAKE NOTICE:
+You are hereby called upon to release and pay the complete undisputed outstanding sum of PKR {{ amount }}/- to the undersigned via crossed cheque, bank transfer, or cash voucher within 7 (SEVEN) DAYS of receipt of this legal notice.
+
+FAILING WHICH, please be warned that an application under Section 15 of the Payment of Wages Act shall be formally filed before the learned AUTHORITY APPOINTED UNDER PAYMENT OF WAGES ACT / LABOUR COURT for the recovery of aforesaid dues along with STATUTORY PENAL COMPENSATION UP TO TEN TIMES (10x) the deducted amount, entirely at your risk, cost, and legal peril.
+
+Yours sincerely,
+
+___________________________
+{{ sender_name }}
+CNIC: {{ sender_cnic }}
+Phone: {{ sender_phone }}

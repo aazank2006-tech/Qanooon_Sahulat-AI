@@ -3,7 +3,3 @@
 __pycache__/
 *.pyc
 .DS_Store
-
-# ChromaDB vector store contains large local binaries (786MB+ exceeds GitHub 100MB limit)
-# Generated locally via: python vectorize_pk_eli.py
-data/chroma_db/
